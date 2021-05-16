@@ -1,0 +1,6 @@
+﻿  Multiply.c
+  Fast_transpose_case2.c
+C:\Users\sw교육원\Desktop\mcj\Project2\Fast_transpose_case2.c(17,35): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  Transpose_case1.c
+  코드를 생성하고 있습니다...
+  Project2.vcxproj -> C:\Users\sw교육원\Desktop\mcj\Project2\Debug\Project2.exe
